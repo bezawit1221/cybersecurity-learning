@@ -25,7 +25,7 @@ Welcome to my cybersecurity repository! I am a Cybersecurity Student documenting
 ## 📂 Repository Structure
 `text
 ├── README.md             # Repository overview and guide
-├── Linux-Basics/         # Linux commands and system administration notes
+├── Linux-Basics.md       # Linux commands and system administration notes
 ├── Networking/           # Network protocols and scanning write-ups
 └── Labs-and-CTFs/        # TryHackMe / HackTheBox lab solutions🎯 Current Goals
 ​[x] Set up Kali Linux & GitHub workspace
